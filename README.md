@@ -1,4 +1,4 @@
 ### Hi 👋 my name is Zhaskshylyk!
-## I`m front-end developer! 
-- 🔭 I’m currently working on the Kyrgyz National University
+## I`m a front-end developer! 
+- 🔭 I’m currently working at the Kyrgyz National University
 
